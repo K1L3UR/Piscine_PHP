@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+	<TITLE>B.A.B.A</TITLE>
+	<STYLE>
+body {
+	background-color: #FFC0CB
+}
+	.maclass {color:white;}
+	.maclass {text-align: center;}
+	.taclass {padding-left: 165px;} 
+	.saclass {text-align: 100%}
+	</STYLE>
+	<H1 class=maclass> Titre stylé</H1> <BR />
+	<IMG SRC="newlook_400x400.jpg">
+	<IMG SRC="asos-2014-304-400x268.jpg"> <BR />
+	<A HREF="http://www.newlook.com/fr">Ceci est un lien menant vers newlook</A>
+	<A class="taclass" HREF="http://www.asos.fr/">Ceci est un lien menant vers asos</A>
+	<hr>
+	<div class="right">
+		<P align=right> <I> © ardurand 2018</I>
+</BODY>
+</HTML>
